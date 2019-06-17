@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465199809335",
+    "firebase_url": "https://photomash2.firebaseio.com",
+    "project_id": "photomash2",
+    "storage_bucket": "photomash2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465199809335:android:f0e9118058284175",
+        "android_client_info": {
+          "package_name": "tabian.com.photomash2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465199809335-jlae2eq9fg8f4ab3gri920grv4j2q8s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabian.com.photomash2",
+            "certificate_hash": "637090c88cf4392caca829d2993ace8b65c8690b"
+          }
+        },
+        {
+          "client_id": "465199809335-7gsa8utu1kb6uhpfqpctjisnpl4cdi1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCqMezTSblCOLiLV8b15r4p5L5VHXTxrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465199809335-7gsa8utu1kb6uhpfqpctjisnpl4cdi1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
